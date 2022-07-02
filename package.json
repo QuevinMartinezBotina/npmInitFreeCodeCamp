@@ -3,6 +3,7 @@
   "description": "Un proyecto del inicio de mi carrera",
   "name": "fcc-learn-npm-package-json",
   "keywords": [ "freecodecamp", "npm", "keywords"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
