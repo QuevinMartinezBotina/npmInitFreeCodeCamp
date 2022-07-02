@@ -2,6 +2,7 @@
   "author": "Quevin Santiago Martinez Botina",
   "description": "Un proyecto del inicio de mi carrera",
   "name": "fcc-learn-npm-package-json",
+  "keywords": [ "freecodecamp", "npm", "keywords"],
   "dependencies": {
     "express": "^4.14.0"
   },
