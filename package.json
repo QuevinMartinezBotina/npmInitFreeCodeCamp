@@ -12,7 +12,8 @@
   ],
   "dependencies": {
     "express": "^4.14.0",
-    "moment": "2.10.2"
+    "moment": "2.10.2",
+    "@freecodecamp/example": "~1.2.13"
   },
   "main": "server.js",
   "scripts": {
